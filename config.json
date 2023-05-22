@@ -1,0 +1,178 @@
+{
+    "jobKeywords": [
+        "engineer",
+        "developer"
+    ],
+    "accountsData": [
+        {
+            "careersUrl": "https://careers.unity.com/find-position",
+            "fetchType": "link",
+            "linkKey": "[href*='/position/']",
+            "titleKey": "span"
+        },
+        {
+            "careersUrl": "https://kps.com/uk/en/career/job-offers.html"
+        },
+        {
+            "careersUrl": "https://online-rewards.com/careers-2/"
+        },
+        {
+            "careersUrl": "https://paykey.com/career/"
+        },
+        {
+            "careersUrl": "https://www.bmat.com/careers/"
+        },
+        {
+            "careersUrl": "https://www.skaarhoj.com/open-position"
+        },
+        {
+            "careersUrl": "https://www.slerp.com/careers/"
+        },
+        {
+            "careersUrl": "https://www.vanti.ai/careers/"
+        },
+        {
+            "careersUrl": "https://boards.greenhouse.io/threeships",
+            "fetchType": "link",
+            "linkKey": "[href*='/threeships/jobs/']",
+            "titleKey": false
+        },
+        {
+            "careersUrl": "https://career.brocc.se/#jobs",
+            "fetchType": "link",
+            "linkKey": "[href*='/career.brocc.se/jobs/']",
+            "titleKey": "span"
+        },
+        {
+            "careersUrl": "https://careers.neuraldsp.com/#jobs",
+            "fetchType": "link",
+            "linkKey": "[href*='/careers.neuraldsp.com/jobs/']",
+            "titleKey": "span"
+        },
+        {
+            "careersUrl": "https://evergen.notion.site/evergen/Careers-at-Evergen-007b8cfcfa5b4a52b0cff38e7cfe1220",
+            "fetchType": "link",
+            "linkKey": "a",
+            "titleKey": false
+        },
+        {
+            "careersUrl": "https://greenmotion.com/careers",
+            "fetchType": "link",
+            "linkKey": "a",
+            "titleKey": false
+        },
+        {
+            "careersUrl": "https://jimdogmbh.teamtailor.com/jobs",
+            "fetchType": "link",
+            "linkKey": "[href*='jimdogmbh.teamtailor.com/jobs/']",
+            "titleKey": "span"
+        },
+        {
+            "careersUrl": "https://jobs.foodpairing.com/careers",
+            "fetchType": "link",
+            "linkKey": "[href*='CareerSite']",
+            "titleKey": false
+        },
+        {
+            "careersUrl": "https://jobs.gpsgate.com/jobs",
+            "fetchType": "link",
+            "linkKey": "[href*='/jobs.gpsgate.com/jobs/']",
+            "titleKey": "span"
+        },
+        {
+            "careersUrl": "https://lulalend.breezy.hr/",
+            "fetchType": "link",
+            "linkKey": ".position.transition a",
+            "titleKey": "h2"
+        },
+        {
+            "careersUrl": "https://quantium.com/careers/",
+            "fetchType": "div",
+            "elementKey": "[class*='listing ']",
+            "linkKey": "[href*='jobs']",
+            "titleKey": "h4"
+        },
+        {
+            "careersUrl": "https://timelycare.com/careers/",
+            "fetchType": "link",
+            "linkKey": "a[class*='job-title']",
+            "titleKey": false
+        },
+        {
+            "careersUrl": "https://trimblecareers.trimble.com/careers?pid=171813684546&Function=Software%20Engineering&domain=trimble.com&sort_by=relevance&triggerGoButton=false&triggerGoButton=true",
+            "fetchType": "custom",
+            "approachId": "1"
+        },
+        {
+            "careersUrl": "https://turftank.com/us/jobs/",
+            "fetchType": "link",
+            "linkKey": "[data-cell='job title'] [href*='turftank.bamboohr.com/careers/']",
+            "titleKey": false
+        },
+        {
+            "careersUrl": "https://www.adjust.com/company/careers/jobs/",
+            "fetchType": "link",
+            "linkKey": ".s-aside-layout__main [href*='/company/careers/jobs/']",
+            "titleKey": "p"
+        },
+        {
+            "careersUrl": "https://www.amlrightsource.com/hs-search-results?term=",
+            "fetchType": "search",
+            "linkKey": "a",
+            "titleKey": false
+        },
+        {
+            "careersUrl": "https://www.applicaster.com/careers-2022",
+            "fetchType": "div",
+            "elementKey": ".career-positions__item.bg-white",
+            "linkKey": "[href*='applicaster.com/careers/']",
+            "titleKey": ".career-positions__title"
+        },
+        {
+            "careersUrl": "https://www.bookofthemonth.com/join-our-team",
+            "fetchType": "link",
+            "linkKey": "section.content.-wide a",
+            "titleKey": false
+        },
+        {
+            "careersUrl": "https://www.indeed.com/cmp/Freightcenter-Inc/jobs/",
+            "fetchType": "indeed",
+            "linkKey": "a[class*='JobTitle']",
+            "titleKey": "span"
+        },
+        {
+            "careersUrl": "https://www.novolyze.com/careers-at-novolyze/",
+            "fetchType": "link",
+            "linkKey": "[href*='/jobs/']",
+            "titleKey": false
+        },
+        {
+            "careersUrl": "https://www.playtika.com/careers/all/",
+            "fetchType": "custom",
+            "approachId": "2"
+        },
+        {
+            "careersUrl": "https://www.scribd.com/about/engineering",
+            "fetchType": "div",
+            "elementKey": "li.row.posting",
+            "linkKey": "[href*='jobs.lever.co/scribd/']",
+            "titleKey": "h3"
+        },
+        {
+            "careersUrl": "https://www.timify.com/en/career/",
+            "fetchType": "custom",
+            "approachId": "3"
+        },
+        {
+            "careersUrl": "https://www.winmore.app/nowhiring",
+            "fetchType": "custom",
+            "approachId": "4"
+        },
+        {
+            "careersUrl": "https://www.zenhub.com/careers#current-positions",
+            "fetchType": "link",
+            "linkKey": "[href*='jobs.lever.co/launchlabs/']",
+            "titleKey": ".job__listing__title"
+        }
+    ]
+}
