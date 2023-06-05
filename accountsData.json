@@ -1,0 +1,348 @@
+{
+    "accountsData": [
+        {
+            "potentialId": "1576533000238370191",
+            "accountLinkedIn": "https://www.linkedin.com/company/wonga/jobs/",
+            "careersUrl": null
+        },
+        {
+            "potentialId": "1576533000225258001",
+            "accountLinkedIn": "https://www.linkedin.com/company/book-of-the-month/jobs/",
+            "careersUrl": "https://www.bookofthemonth.com/join-our-team",
+            "linkKey": "section.content.-wide a",
+            "titleKey": null,
+            "fetchType": "Link"
+        },
+        {
+            "potentialId": "1576533000215737437",
+            "accountLinkedIn": "https://www.linkedin.com/company/unity-technologies/jobs/",
+            "careersUrl": "https://careers.unity.com/find-position",
+            "linkKey": "[href*='/position/']",
+            "titleKey": "span",
+            "fetchType": "Link"
+        },
+        {
+            "potentialId": "1576533000214706418",
+            "accountLinkedIn": "http://www.linkedin.com/company/timelymd/jobs/",
+            "careersUrl": "https://timelycare.com/careers/",
+            "linkKey": "a[class*='job-title']",
+            "titleKey": null,
+            "fetchType": "Link"
+        },
+        {
+            "potentialId": "1576533000201257437",
+            "accountLinkedIn": "http://www.linkedin.com/company/jayex-technology/jobs/",
+            "careersUrl": null
+        },
+        {
+            "potentialId": "1576533000200763462",
+            "accountLinkedIn": "https://www.linkedin.com/company/pgls-inc/jobs/",
+            "careersUrl": "https://pglsinc.isolvedhire.com/jobs/",
+            "linkKey": "[href*='pglsinc.isolvedhire.com/jobs/']",
+            "titleKey": "h4",
+            "fetchType": "Link"
+        },
+        {
+            "potentialId": "1576533000197620058",
+            "accountLinkedIn": "https://www.linkedin.com/company/commentsold/jobs/",
+            "careersUrl": null
+        },
+        {
+            "potentialId": "1576533000195935893",
+            "accountLinkedIn": "http://www.linkedin.com/company/evergen/jobs/",
+            "careersUrl": "https://evergen.notion.site/evergen/Careers-at-Evergen-007b8cfcfa5b4a52b0cff38e7cfe1220",
+            "linkKey": "a",
+            "titleKey": null,
+            "fetchType": "Link"
+        },
+        {
+            "potentialId": "1576533000191842103",
+            "accountLinkedIn": null,
+            "careersUrl": null
+        },
+        {
+            "potentialId": "1576533000190992058",
+            "accountLinkedIn": "https://www.linkedin.com/company/1919232/jobs/",
+            "careersUrl": "https://www.playtika.com/careers/all/",
+            "approachId": "2",
+            "fetchType": "Custom"
+        },
+        {
+            "potentialId": "1576533000190780616",
+            "accountLinkedIn": "https://www.linkedin.com/company/zenhub/jobs/",
+            "careersUrl": "https://www.zenhub.com/careers#current-positions",
+            "linkKey": "[href*='jobs.lever.co/launchlabs/']",
+            "titleKey": ".job__listing__title",
+            "fetchType": "Link"
+        },
+        {
+            "potentialId": "1576533000189550877",
+            "accountLinkedIn": "https://www.linkedin.com/company/redguard-ag/jobs/",
+            "careersUrl": null
+        },
+        {
+            "potentialId": "1576533000188545043",
+            "accountLinkedIn": "http://www.linkedin.com/company/franatech-gmbh/jobs/",
+            "careersUrl": null
+        },
+        {
+            "potentialId": "1576533000183137258",
+            "accountLinkedIn": "http://www.linkedin.com/company/threeships/jobs/",
+            "careersUrl": "https://boards.greenhouse.io/threeships",
+            "linkKey": "[href*='/threeships/jobs/']",
+            "titleKey": null,
+            "fetchType": "Link"
+        },
+        {
+            "potentialId": "1576533000168377335",
+            "accountLinkedIn": "http://www.linkedin.com/company/stepler/jobs/",
+            "careersUrl": "https://jobs.steplerapp.com/#jobs",
+            "linkKey": "a[href*='jobs.steplerapp.com/jobs/']",
+            "titleKey": "span",
+            "fetchType": "Link"
+        },
+        {
+            "potentialId": "1576533000164976865",
+            "accountLinkedIn": "http://www.linkedin.com/company/neural-dsp-technologies/jobs/",
+            "careersUrl": "https://careers.neuraldsp.com/#jobs",
+            "linkKey": "[href*='/careers.neuraldsp.com/jobs/']",
+            "titleKey": "span",
+            "fetchType": "Link"
+        },
+        {
+            "potentialId": "1576533000164505327",
+            "accountLinkedIn": "http://www.linkedin.com/company/tawkify/jobs/",
+            "careersUrl": null
+        },
+        {
+            "potentialId": "1576533000161589643",
+            "accountLinkedIn": "http://www.linkedin.com/company/green-motion/jobs/",
+            "careersUrl": "https://greenmotion.com/careers",
+            "linkKey": "a",
+            "titleKey": null,
+            "fetchType": "Link"
+        },
+        {
+            "potentialId": "1576533000154720400",
+            "accountLinkedIn": "https://www.linkedin.com/company/1919232/jobs/",
+            "careersUrl": "https://www.playtika.com/careers/all/",
+            "approachId": "2",
+            "fetchType": "Custom"
+        },
+        {
+            "potentialId": "1576533000153616301",
+            "accountLinkedIn": "http://www.linkedin.com/company/winmorecloud/jobs/",
+            "careersUrl": "https://www.winmore.app/nowhiring",
+            "approachId": "4",
+            "fetchType": "Custom"
+        },
+        {
+            "potentialId": "1576533000145032054",
+            "accountLinkedIn": "https://www.linkedin.com/company/2750751/jobs/",
+            "careersUrl": "https://www.novolyze.com/careers-at-novolyze/",
+            "linkKey": "[href*='/jobs/']",
+            "titleKey": null,
+            "fetchType": "Link"
+        },
+        {
+            "potentialId": "1576533000140873433",
+            "accountLinkedIn": "https://www.linkedin.com/company/applicaster-ltd/jobs/",
+            "careersUrl": "https://www.applicaster.com/careers-2022",
+            "blockKey": ".career-positions__item.bg-white",
+            "linkKey": "[href*='applicaster.com/careers/']",
+            "titleKey": ".career-positions__title",
+            "fetchType": "Block"
+        },
+        {
+            "potentialId": "1576533000138445855",
+            "accountLinkedIn": "https://www.linkedin.com/company/travello-app/jobs/",
+            "careersUrl": null
+        },
+        {
+            "potentialId": "1576533000135787737",
+            "accountLinkedIn": "http://www.linkedin.com/company/threeships/jobs/",
+            "careersUrl": "https://boards.greenhouse.io/threeships",
+            "linkKey": "[href*='/threeships/jobs/']",
+            "titleKey": null,
+            "fetchType": "Link"
+        },
+        {
+            "potentialId": "1576533000132002305",
+            "accountLinkedIn": "https://www.linkedin.com/company/brocc/jobs/",
+            "careersUrl": "https://career.brocc.se/#jobs",
+            "linkKey": "[href*='/career.brocc.se/jobs/']",
+            "titleKey": "span",
+            "fetchType": "Link"
+        },
+        {
+            "potentialId": "1576533000129701001",
+            "accountLinkedIn": "http://www.linkedin.com/company/slerp/jobs/",
+            "careersUrl": "https://www.slerp.com/careers/",
+            "fetchType": "Unknown"
+        },
+        {
+            "potentialId": "1576533000126304466",
+            "accountLinkedIn": "http://www.linkedin.com/company/vanti-analytics/jobs/",
+            "careersUrl": "https://www.vanti.ai/careers/",
+            "blockKey": ".job_position",
+            "linkKey": "a[href*='vanti.ai/careers/']",
+            "titleKey": "span.job_position_name",
+            "fetchType": "Block"
+        },
+        {
+            "potentialId": "1576533000124120962",
+            "accountLinkedIn": "http://www.linkedin.com/company/quantium/jobs/",
+            "careersUrl": "https://quantium.com/careers/",
+            "blockKey": "[class*='listing ']",
+            "linkKey": "[href*='jobs']",
+            "titleKey": "h4",
+            "fetchType": "Block"
+        },
+        {
+            "potentialId": "1576533000108069047",
+            "accountLinkedIn": null,
+            "careersUrl": "https://jobs.gpsgate.com/jobs",
+            "linkKey": "[href*='/jobs.gpsgate.com/jobs/']",
+            "titleKey": "span",
+            "fetchType": "Link"
+        },
+        {
+            "potentialId": "1576533000104222399",
+            "accountLinkedIn": "http://www.linkedin.com/company/threeships/jobs/",
+            "careersUrl": "https://boards.greenhouse.io/threeships",
+            "linkKey": "[href*='/threeships/jobs/']",
+            "titleKey": null,
+            "fetchType": "Link"
+        },
+        {
+            "potentialId": "1576533000100923102",
+            "accountLinkedIn": "https://www.linkedin.com/company/timify/jobs/",
+            "careersUrl": "https://www.timify.com/en/career/",
+            "approachId": "3",
+            "fetchType": "Custom"
+        },
+        {
+            "potentialId": "1576533000100800804",
+            "accountLinkedIn": null,
+            "careersUrl": null
+        },
+        {
+            "potentialId": "1576533000099811041",
+            "accountLinkedIn": "https://www.linkedin.com/company/paykey/jobs/",
+            "careersUrl": "https://paykey.com/career/",
+            "fetchType": "Unknown"
+        },
+        {
+            "potentialId": "1576533000098786962",
+            "accountLinkedIn": "http://www.linkedin.com/company/turf-tank-eu/jobs/",
+            "careersUrl": "https://turftank.com/us/jobs/",
+            "linkKey": "[data-cell='job title'] [href*='turftank.bamboohr.com/careers/']",
+            "titleKey": null,
+            "fetchType": "Link"
+        },
+        {
+            "potentialId": "1576533000091208513",
+            "accountLinkedIn": "https://www.linkedin.com/company/kpsuk/jobs/",
+            "careersUrl": "https://kps.com/uk/en/career/job-offers.html",
+            "fetchType": "Unknown"
+        },
+        {
+            "potentialId": "1576533000088918621",
+            "accountLinkedIn": "https://www.linkedin.com/company/lulalend/jobs/",
+            "careersUrl": "https://lulalend.breezy.hr/",
+            "linkKey": ".position.transition a",
+            "titleKey": "h2",
+            "fetchType": "Link"
+        },
+        {
+            "potentialId": "1576533000081840642",
+            "accountLinkedIn": "https://www.linkedin.com/company/comeon-group/jobs/",
+            "careersUrl": null
+        },
+        {
+            "potentialId": "1576533000081041112",
+            "accountLinkedIn": "http://www.linkedin.com/company/skaarhoj-k-s/jobs/",
+            "careersUrl": "https://www.skaarhoj.com/open-position",
+            "fetchType": "Unknown"
+        },
+        {
+            "potentialId": "1576533000074723370",
+            "accountLinkedIn": "http://www.linkedin.com/company/hubble-contacts/jobs/",
+            "careersUrl": null
+        },
+        {
+            "potentialId": "1576533000072650165",
+            "accountLinkedIn": "http://www.linkedin.com/company/jimdo/jobs/",
+            "careersUrl": "https://jimdogmbh.teamtailor.com/jobs",
+            "linkKey": "[href*='jimdogmbh.teamtailor.com/jobs/']",
+            "titleKey": "span",
+            "fetchType": "Link"
+        },
+        {
+            "potentialId": "1576533000067288672",
+            "accountLinkedIn": "https://www.linkedin.com/company/adjustcom/jobs/",
+            "careersUrl": "https://www.adjust.com/company/careers/jobs/",
+            "linkKey": ".s-aside-layout__main [href*='/company/careers/jobs/']",
+            "titleKey": "p",
+            "fetchType": "Link"
+        },
+        {
+            "potentialId": "1576533000055042002",
+            "accountLinkedIn": null,
+            "careersUrl": "https://www.indeed.com/cmp/Freightcenter-Inc/jobs/",
+            "blockKey": null,
+            "linkKey": "a[class*='JobTitle']",
+            "titleKey": "span",
+            "fetchType": "Indeed"
+        },
+        {
+            "potentialId": "1576533000042178001",
+            "accountLinkedIn": "https://www.linkedin.com/company/129665/jobs/",
+            "careersUrl": "https://www.scribd.com/about/engineering",
+            "blockKey": "li.row.posting",
+            "linkKey": "[href*='jobs.lever.co/scribd/']",
+            "titleKey": "h3",
+            "fetchType": "Block"
+        },
+        {
+            "potentialId": "1576533000032749688",
+            "accountLinkedIn": "https://www.linkedin.com/company/real-automation-solutions/jobs/",
+            "careersUrl": null
+        },
+        {
+            "potentialId": "1576533000032503001",
+            "accountLinkedIn": "https://www.linkedin.com/company/linor-technology-inc-/jobs/",
+            "careersUrl": null
+        },
+        {
+            "potentialId": "1576533000031711277",
+            "accountLinkedIn": "https://www.linkedin.com/company/bmat/jobs/",
+            "careersUrl": "https://www.bmat.com/careers/",
+            "blockKey": ".job-offers .grid-x",
+            "linkKey": "a[href*='apply.workable.com/j/']",
+            "titleKey": ".job-title",
+            "fetchType": "Block"
+        },
+        {
+            "potentialId": "1576533000029316205",
+            "accountLinkedIn": "https://www.linkedin.com/company/quantaverse/jobs/",
+            "careersUrl": "https://www.amlrightsource.com/hs-search-results?term=",
+            "linkKey": "a",
+            "titleKey": null,
+            "fetchType": "Search"
+        },
+        {
+            "potentialId": "1576533000007624061",
+            "accountLinkedIn": "https://www.linkedin.com/company/e-builder/jobs/",
+            "careersUrl": "https://trimblecareers.trimble.com/careers?pid=171813684546&Function=Software%20Engineering&domain=trimble.com&sort_by=relevance&triggerGoButton=false&triggerGoButton=true",
+            "approachId": "1",
+            "fetchType": "Custom"
+        },
+        {
+            "potentialId": "1576533000004758119",
+            "accountLinkedIn": "https://www.linkedin.com/company/online-rewards/jobs/",
+            "careersUrl": "https://online-rewards.com/careers-2/",
+            "fetchType": "Unknown"
+        }
+    ]
+}

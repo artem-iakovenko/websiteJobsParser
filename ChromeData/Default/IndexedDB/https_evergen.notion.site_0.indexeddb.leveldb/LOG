@@ -1,0 +1,13 @@
+2023/06/05-11:47:22.178 a403 Reusing MANIFEST /Users/apple/Work/repository/websiteJobsParser/ChromeData/Default/IndexedDB/https_evergen.notion.site_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/05-11:47:22.178 a403 Recovering log #7
+2023/06/05-11:47:22.179 a403 Reusing old log /Users/apple/Work/repository/websiteJobsParser/ChromeData/Default/IndexedDB/https_evergen.notion.site_0.indexeddb.leveldb/000007.log 
+2023/06/05-11:47:22.756 f403 Level-0 table #11: started
+2023/06/05-11:47:22.829 f403 Level-0 table #11: 538 bytes OK
+2023/06/05-11:47:22.876 f403 Delete type=0 #7
+2023/06/05-11:47:22.876 a403 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at '\x00\x04\x00\x00\x05' @ 220 : 1
+2023/06/05-11:47:22.876 a403 Compacting 1@0 + 1@1 files
+2023/06/05-11:47:22.900 a403 Generated table #12@0: 9 keys, 497 bytes
+2023/06/05-11:47:22.900 a403 Compacted 1@0 + 1@1 files => 497 bytes
+2023/06/05-11:47:22.946 a403 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/06/05-11:47:22.947 a403 Delete type=2 #11
+2023/06/05-11:47:22.947 f403 Manual compaction at level-0 from '\x00\x04\x00\x00\x05' @ 220 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)

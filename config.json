@@ -3,176 +3,128 @@
         "engineer",
         "developer"
     ],
-    "accountsData": [
-        {
-            "careersUrl": "https://careers.unity.com/find-position",
-            "fetchType": "link",
-            "linkKey": "[href*='/position/']",
-            "titleKey": "span"
-        },
-        {
-            "careersUrl": "https://kps.com/uk/en/career/job-offers.html"
-        },
-        {
-            "careersUrl": "https://online-rewards.com/careers-2/"
-        },
-        {
-            "careersUrl": "https://paykey.com/career/"
-        },
-        {
-            "careersUrl": "https://www.bmat.com/careers/"
-        },
-        {
-            "careersUrl": "https://www.skaarhoj.com/open-position"
-        },
-        {
-            "careersUrl": "https://www.slerp.com/careers/"
-        },
-        {
-            "careersUrl": "https://www.vanti.ai/careers/"
-        },
-        {
-            "careersUrl": "https://boards.greenhouse.io/threeships",
-            "fetchType": "link",
-            "linkKey": "[href*='/threeships/jobs/']",
-            "titleKey": false
-        },
-        {
-            "careersUrl": "https://career.brocc.se/#jobs",
-            "fetchType": "link",
-            "linkKey": "[href*='/career.brocc.se/jobs/']",
-            "titleKey": "span"
-        },
-        {
-            "careersUrl": "https://careers.neuraldsp.com/#jobs",
-            "fetchType": "link",
-            "linkKey": "[href*='/careers.neuraldsp.com/jobs/']",
-            "titleKey": "span"
-        },
-        {
-            "careersUrl": "https://evergen.notion.site/evergen/Careers-at-Evergen-007b8cfcfa5b4a52b0cff38e7cfe1220",
-            "fetchType": "link",
-            "linkKey": "a",
-            "titleKey": false
-        },
-        {
-            "careersUrl": "https://greenmotion.com/careers",
-            "fetchType": "link",
-            "linkKey": "a",
-            "titleKey": false
-        },
-        {
-            "careersUrl": "https://jimdogmbh.teamtailor.com/jobs",
-            "fetchType": "link",
-            "linkKey": "[href*='jimdogmbh.teamtailor.com/jobs/']",
-            "titleKey": "span"
-        },
-        {
-            "careersUrl": "https://jobs.foodpairing.com/careers",
-            "fetchType": "link",
-            "linkKey": "[href*='CareerSite']",
-            "titleKey": false
-        },
-        {
-            "careersUrl": "https://jobs.gpsgate.com/jobs",
-            "fetchType": "link",
-            "linkKey": "[href*='/jobs.gpsgate.com/jobs/']",
-            "titleKey": "span"
-        },
-        {
-            "careersUrl": "https://lulalend.breezy.hr/",
-            "fetchType": "link",
-            "linkKey": ".position.transition a",
-            "titleKey": "h2"
-        },
-        {
-            "careersUrl": "https://quantium.com/careers/",
-            "fetchType": "div",
-            "elementKey": "[class*='listing ']",
-            "linkKey": "[href*='jobs']",
-            "titleKey": "h4"
-        },
-        {
-            "careersUrl": "https://timelycare.com/careers/",
-            "fetchType": "link",
-            "linkKey": "a[class*='job-title']",
-            "titleKey": false
-        },
-        {
-            "careersUrl": "https://trimblecareers.trimble.com/careers?pid=171813684546&Function=Software%20Engineering&domain=trimble.com&sort_by=relevance&triggerGoButton=false&triggerGoButton=true",
-            "fetchType": "custom",
-            "approachId": "1"
-        },
-        {
-            "careersUrl": "https://turftank.com/us/jobs/",
-            "fetchType": "link",
-            "linkKey": "[data-cell='job title'] [href*='turftank.bamboohr.com/careers/']",
-            "titleKey": false
-        },
-        {
-            "careersUrl": "https://www.adjust.com/company/careers/jobs/",
-            "fetchType": "link",
-            "linkKey": ".s-aside-layout__main [href*='/company/careers/jobs/']",
-            "titleKey": "p"
-        },
-        {
-            "careersUrl": "https://www.amlrightsource.com/hs-search-results?term=",
-            "fetchType": "search",
-            "linkKey": "a",
-            "titleKey": false
-        },
-        {
-            "careersUrl": "https://www.applicaster.com/careers-2022",
-            "fetchType": "div",
-            "elementKey": ".career-positions__item.bg-white",
-            "linkKey": "[href*='applicaster.com/careers/']",
-            "titleKey": ".career-positions__title"
-        },
-        {
-            "careersUrl": "https://www.bookofthemonth.com/join-our-team",
-            "fetchType": "link",
-            "linkKey": "section.content.-wide a",
-            "titleKey": false
-        },
-        {
-            "careersUrl": "https://www.indeed.com/cmp/Freightcenter-Inc/jobs/",
-            "fetchType": "indeed",
-            "linkKey": "a[class*='JobTitle']",
-            "titleKey": "span"
-        },
-        {
-            "careersUrl": "https://www.novolyze.com/careers-at-novolyze/",
-            "fetchType": "link",
-            "linkKey": "[href*='/jobs/']",
-            "titleKey": false
-        },
-        {
-            "careersUrl": "https://www.playtika.com/careers/all/",
-            "fetchType": "custom",
-            "approachId": "2"
-        },
-        {
-            "careersUrl": "https://www.scribd.com/about/engineering",
-            "fetchType": "div",
-            "elementKey": "li.row.posting",
-            "linkKey": "[href*='jobs.lever.co/scribd/']",
-            "titleKey": "h3"
-        },
-        {
-            "careersUrl": "https://www.timify.com/en/career/",
-            "fetchType": "custom",
-            "approachId": "3"
-        },
-        {
-            "careersUrl": "https://www.winmore.app/nowhiring",
-            "fetchType": "custom",
-            "approachId": "4"
-        },
-        {
-            "careersUrl": "https://www.zenhub.com/careers#current-positions",
-            "fetchType": "link",
-            "linkKey": "[href*='jobs.lever.co/launchlabs/']",
-            "titleKey": ".job__listing__title"
+    "passwords": ["testpass"],
+    "serverMessages": {
+        "success": {"Success": true, "Message": "Tool has been launched"},
+        "error": {"Success": false, "Message": "Access Denied"}
+    },
+    "clientData": {
+        "clientId": "1000.T5VGK6CRDD7W6W8MO9QPZD6ZIF3TSG",
+        "clientSecret": "087ee51ba48ed0ce72294457d025eba49db635bb1e"
+    },
+    "crm": {
+        "cvid": "1576533000235584453",
+        "refreshToken": "1000.7a08037367f95ce62c404e74c98b77e1.a08ba9ce40b27156cbcaa66240d199e0",
+        "addJobsUrl": "https://www.zohoapis.com/crm/v2/Job_Opening_by_Clients",
+        "potentialsUrl": "https://www.zohoapis.com/crm/v2/Deals/",
+        "potentialsCvUrl": "https://www.zohoapis.com/crm/v3/Potentials?cvid=",
+        "accountsUrl": "https://www.zohoapis.com/crm/v2/Accounts/"
+    },
+    "linkedin": {
+        "technologies": {
+            "react.js": "React",
+            "reactjs": "React",
+            "react": "React",
+            "vuejs": "Vue",
+            "vue.js": "Vue",
+            "vue": "Vue",
+            "emberjs": "Ember",
+            "ember.js": "Ember",
+            "ember": "Ember",
+            "aurelia": "Aurelia",
+            "angularjs": "Angular",
+            "angular.js": "Angular",
+            "angular": "Angular",
+            "d3.js": "D3",
+            "d3": "D3",
+            "jquery": "jQuery",
+            "typescript": "TypeScript",
+            "es6": "ES6",
+            "moment.js": "Moment",
+            "momentjs": "Moment",
+            "lodash": "lodash",
+            "vuex": "Vuex",
+            "ngrx": "NgRX",
+            "rxjs": "RxJS",
+            "highcharts": "HighCharts",
+            "wordpress": "WordPress",
+            "node": "Node",
+            "node.js": "Node",
+            "nodejs": "Node",
+            "php": "PHP",
+            "golang": "Golang",
+            "erlang": "Erlang",
+            "ror": "Ruby",
+            "rails": "Ruby",
+            "rubyobrails": "Ruby",
+            "ruby": "Ruby",
+            "python": "Python",
+            "scala": "Scala",
+            "f# ": "F# ",
+            "r": "R",
+            "clojure": "Clojure",
+            "delphi": "Delphi",
+            "elixir": "Elixir",
+            "perl": "Perl",
+            "haskell": "Haskell",
+            "rust": "Rust",
+            "yii": "Yii",
+            "javascript": "JavaScript",
+            "symphony": "Symphony",
+            "spring": "Spring",
+            "hibernate": "Hibernate",
+            "drupal ": "Drupal ",
+            "shopify": "Shopify",
+            "magento": "Magento",
+            "laravel": "Laravel",
+            "express.js": "Express",
+            "expressjs": "Express",
+            "hybris ": "Hybris ",
+            "django": "Django",
+            ".net": ".NET",
+            "dotnet": ".NET",
+            "phoenix": "Phoenix",
+            "phalcon": "Phalcon",
+            "cakephp": "CakePHP",
+            "flask": "Flask",
+            "struts ": "Struts ",
+            "fastapi": "FastAPI",
+            "nestjs": "Nest.js",
+            "nest.js": "Nest.js",
+            "sqlalchemy": "SQLAlchemy",
+            "c#": "C#",
+            "swift ": "Swift ",
+            "objectivec": "ObjectiveC",
+            "java": "Java",
+            "kotlin": "Kotlin",
+            "dart ": "Dart ",
+            "rxjava": "RxJava",
+            "androidx": "AndroidX",
+            "rxswift": "RxSwift",
+            "aws": "AWS",
+            "azure": "Azure",
+            "gcp": "GCP",
+            "oracle": "Oracle",
+            "ibm": "IBM",
+            "alibaba": "Alibaba Cloud",
+            "linode": "Linode",
+            "heroku": "Heroku",
+            "linux": "Linux",
+            "unity ": "Unity ",
+            "UE": "Unreal Engine",
+            "cocos": "Cocos",
+            "cryengine": "CryEngine",
+            "pixi.js": "PixiJS",
+            "pixijs": "PixiJS",
+            "solidity": "Solidity",
+            "vyper": "Vyper",
+            "c++": "C++",
+            "middle": "",
+            "lead": "",
+            "senior": "",
+            "engineer": "",
+            "developer": ""
         }
-    ]
+    },
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
 }

@@ -1,0 +1,7 @@
+2023/06/05-12:03:00.854 a403 Reusing MANIFEST /Users/apple/Work/repository/websiteJobsParser/ChromeData/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/05-12:03:00.855 a403 Recovering log #3
+2023/06/05-12:03:00.857 a403 Reusing old log /Users/apple/Work/repository/websiteJobsParser/ChromeData/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000003.log 
+2023/06/05-12:03:08.879 9d03 Level-0 table #5: started
+2023/06/05-12:03:08.903 9d03 Level-0 table #5: 160489 bytes OK
+2023/06/05-12:03:08.944 9d03 Delete type=0 #3
+2023/06/05-12:03:08.946 9d03 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

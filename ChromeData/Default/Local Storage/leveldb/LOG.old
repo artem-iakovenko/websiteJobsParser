@@ -1,0 +1,36 @@
+2023/06/05-10:14:16.986 3b03 Reusing MANIFEST /Users/apple/Work/repository/websiteJobsParser/ChromeData/Default/Local Storage/leveldb/MANIFEST-000001
+2023/06/05-10:14:16.990 3b03 Recovering log #81
+2023/06/05-10:14:16.991 3b03 Reusing old log /Users/apple/Work/repository/websiteJobsParser/ChromeData/Default/Local Storage/leveldb/000081.log 
+2023/06/05-10:17:16.611 3303 Level-0 table #85: started
+2023/06/05-10:17:16.635 3303 Level-0 table #85: 16075 bytes OK
+2023/06/05-10:17:16.678 3303 Delete type=0 #81
+2023/06/05-10:17:16.680 3b03 Compacting 4@0 + 1@1 files
+2023/06/05-10:17:16.704 3b03 Generated table #86@0: 117 keys, 182884 bytes
+2023/06/05-10:17:16.704 3b03 Compacted 4@0 + 1@1 files => 182884 bytes
+2023/06/05-10:17:16.742 3b03 compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/06/05-10:17:16.743 3b03 Delete type=2 #76
+2023/06/05-10:17:16.743 3b03 Delete type=2 #73
+2023/06/05-10:17:16.743 3b03 Delete type=2 #82
+2023/06/05-10:17:16.743 3b03 Delete type=2 #78
+2023/06/05-10:17:16.743 3b03 Delete type=2 #85
+2023/06/05-10:19:34.067 3303 Level-0 table #88: started
+2023/06/05-10:19:34.087 3303 Level-0 table #88: 16567 bytes OK
+2023/06/05-10:19:34.126 3303 Delete type=0 #84
+2023/06/05-10:36:48.637 3b03 Level-0 table #90: started
+2023/06/05-10:36:48.660 3b03 Level-0 table #90: 176075 bytes OK
+2023/06/05-10:36:48.718 3b03 Delete type=0 #87
+2023/06/05-11:01:43.647 3303 Level-0 table #92: started
+2023/06/05-11:01:43.669 3303 Level-0 table #92: 16633 bytes OK
+2023/06/05-11:01:43.710 3303 Delete type=0 #89
+2023/06/05-11:21:46.442 3303 Level-0 table #94: started
+2023/06/05-11:21:46.465 3303 Level-0 table #94: 15323 bytes OK
+2023/06/05-11:21:46.508 3303 Delete type=0 #91
+2023/06/05-11:21:46.511 3303 Compacting 4@0 + 1@1 files
+2023/06/05-11:21:46.539 3303 Generated table #95@0: 118 keys, 186523 bytes
+2023/06/05-11:21:46.539 3303 Compacted 4@0 + 1@1 files => 186523 bytes
+2023/06/05-11:21:46.577 3303 compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/06/05-11:21:46.578 3303 Delete type=2 #88
+2023/06/05-11:21:46.578 3303 Delete type=2 #94
+2023/06/05-11:21:46.578 3303 Delete type=2 #86
+2023/06/05-11:21:46.578 3303 Delete type=2 #92
+2023/06/05-11:21:46.578 3303 Delete type=2 #90
