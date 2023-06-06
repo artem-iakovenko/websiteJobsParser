@@ -51,6 +51,7 @@ async function getPotentials(accessToken) {
             allPotentials.push.apply(allPotentials, pageData);
         } catch (e) {
             pageData = [];
+            console.log(e);
         }
         if (pageData.length < 200) {
             break;
@@ -111,16 +112,17 @@ async function getPotentialInfo(accessToken, potentialId) {
         resObj["potentialId"] = potentialId;
         resObj["careersUrl"] = careersUrl;
 
-        if(fetchType.toLowerCase() !== "custom" && fetchType.toLowerCase() !== "unknown") {
-            if(titleKey === null) {
-                titleKey = false;
-            }
-
-            resObj["linkKey"] = linkKey;
-            resObj["titleKey"] = titleKey;
-        }
-
+        
         if(fetchType !== null && fetchType !== "") {
+
+            if(fetchType.toLowerCase() !== "custom" && fetchType.toLowerCase() !== "unknown") {
+                if(titleKey === null) {
+                    titleKey = false;
+                }
+    
+                resObj["linkKey"] = linkKey;
+                resObj["titleKey"] = titleKey;
+            }
 
             if(fetchType.toLowerCase() !== "unknown") {
                 resObj["fetchType"] = fetchType;
@@ -136,12 +138,12 @@ async function getPotentialInfo(accessToken, potentialId) {
             }
 
             if(fetchType.toLowerCase() === "custom") {
-                resObj["approachId"] = Approach_ID;
+                resObj["approachId"] = potentialData.Approach_ID;
             }
         }
         
     } catch (e) {
-        //console.log(e);
+        console.log(e);
         resObj = {};
     }
 
